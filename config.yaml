@@ -1,8 +1,8 @@
-baseURL: https://www.example.org/
+baseURL: https://www.jasonsanders.ca/
 theme: hugo-apero
 languageCode: en
-title: Hugo Apéro
-author: Alison Hill
+title: Welcome  
+author: Jason Sanders
 copyright: ''
 googleAnalytics: ''
 metaDataFormat: yaml
@@ -34,7 +34,7 @@ params:
   custom_theme: ''
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
-  description: A modern, beautiful, and easily configurable blog theme for Hugo.
+  description: A contempory, personal website for Jason.
   favicon: /img/favicon.ico
   giscus:
     category: Comments
