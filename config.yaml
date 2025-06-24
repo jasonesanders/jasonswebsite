@@ -1,8 +1,8 @@
-baseURL: https://gorgeous-piroshki-56ea90.netlify.app/
+baseURL: https://www.example.org/
 theme: hugo-apero
 languageCode: en
-title: Welcome  
-author: Jason Sanders
+title: Hugo Apéro
+author: Alison Hill
 copyright: ''
 googleAnalytics: ''
 metaDataFormat: yaml
@@ -34,7 +34,7 @@ params:
   custom_theme: ''
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
-  description: A contempory, personal website for Jason.
+  description: A modern, beautiful, and easily configurable blog theme for Hugo.
   favicon: /img/favicon.ico
   giscus:
     category: Comments
@@ -125,8 +125,7 @@ menu:
       title: Talks
       url: /talk/
       weight: 4
-    - name: A blogdown::check_config()
-collection
+    - name: A collection
       title: A collection
       url: /collection/
       weight: 5
