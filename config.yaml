@@ -1,4 +1,4 @@
-baseURL: https://gorgeous-piroshki-56ea90.netlify.app/
+baseURL: gorgeous-piroshki-56ea90.netlify.app/
 theme: hugo-apero
 languageCode: en
 title: Welcome  
@@ -125,8 +125,7 @@ menu:
       title: Talks
       url: /talk/
       weight: 4
-    - name: A blogdown::check_config()
-collection:
+    - name: collection
       title: A collection
       url: /collection/
       weight: 5
