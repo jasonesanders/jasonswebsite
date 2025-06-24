@@ -6,9 +6,9 @@ description: It's nice to meet you. I create compelling encounters, grow online 
 image_left: true
 images:
 - img/IMG_3547.jpg
-show_action_link: true
-show_social_links: true
-subtitle: .
+show_action_link: false
+show_social_links: false
+subtitle: 
 text_align_left: false
 title: Hi, I'm Jason
 type: home
