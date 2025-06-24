@@ -126,7 +126,7 @@ menu:
       url: /talk/
       weight: 4
     - name: A blogdown::check_config()
-collection
+collection:
       title: A collection
       url: /collection/
       weight: 5
