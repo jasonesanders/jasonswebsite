@@ -1,7 +1,7 @@
 ---
-#action_label: Read More &rarr;
-#action_link: /about
-#action_type: text
+action_label: Read More &rarr;
+action_link: /about
+action_type: text
 description: It's nice to meet you. I create compelling encounters, grow online communities, and help users navigate complex systems with honest words, pictures, videos, and data.
 
 
