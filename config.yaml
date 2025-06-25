@@ -32,8 +32,8 @@ markup:
 params:
   comments: utterances
   custom_theme: ''
-  customheadingFontFamily: Fraunces
-  customtextFontFamily: Commissioner
+  customheadingFontFamily: ""
+  customtextFontFamily: ""
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
   favicon: 
   giscus:
