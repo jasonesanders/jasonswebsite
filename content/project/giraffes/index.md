@@ -1,15 +1,13 @@
 ---
-title: "Tachyons for Style"
+title: "Real Talk Summit"
 author: "Jason Sanders"
 date: "2019-06-22"
 draft: false
-excerpt: Building this static site generator theme was the first time I used an Atomic
-  (or Functional) CSS system like Tachyons. It’s a design system that provides very
-  small (which means fast) CSS modules that you can use in your HTML.
+excerpt: Real Talk Summit was a new, single-day event aimed at business entrepreneurs. Held at the Vancouver Convention Centre, the inaugural conference featured high-profile speakers such as Gary Vaynerchuck and 1-800-GOT-JUNK’s Brian Scudamore. 
 layout: single
-subtitle: A tachyon /ˈtæki.ɒn/ or tachyonic particle is a hypothetical particle that
-  always moves faster than light.
-tags: "hugo-site"
+subtitle: A new, single-day event aimed at entrepreneurs. Held at the Vancouver Convention Centre, the inaugural conference featured high-profile speakers such as Gary Vaynerchuck and 1-800-GOT-JUNK’s Brian Scudamore. 
+tags: 
+- hugo-site
 categories:
 - Social Media
 - Event
