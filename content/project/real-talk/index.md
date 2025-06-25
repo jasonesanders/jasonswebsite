@@ -5,7 +5,7 @@ date: "2019-06-22"
 draft: false
 excerpt: Real Talk Summit was a new, single-day event aimed at business entrepreneurs. Held at the Vancouver Convention Centre, the inaugural conference featured high-profile speakers such as Gary Vaynerchuck and 1-800-GOT-JUNK’s Brian Scudamore. 
 layout: single
-subtitle: A new, single-day event aimed at entrepreneurs. Held at the Vancouver Convention Centre, the inaugural conference featured high-profile speakers such as Gary Vaynerchuck and 1-800-GOT-JUNK’s Brian Scudamore. 
+subtitle: A new, single-track event aimed at entrepreneurs. Held at the Vancouver Convention Centre, the inaugural conference featured high-profile speakers such as Gary Vaynerchuck and 1-800-GOT-JUNK’s Brian Scudamore. 
 tags: 
 - hugo-site
 categories:
@@ -15,7 +15,9 @@ categories:
 
 ![Tachyons Logo Script](tachyons-logo-script.png)
 
-## [Tachyons](http://tachyons.io) is a design system that allows you to design gorgeous interfaces in the browser with little effort.
+## “Jason was amazing to work with. He managed the social media for our event seamlessly. He worked with us to develop [a strategy] that was impactful and met our dynamic needs.
+— Malina Parmar, Conference Director
+
 
 ---
 
