@@ -46,7 +46,7 @@ params:
     repo: apreshill/apero
     repo_id: '[REPO ID]='
     theme: light
-  headingFontFamily: helvetica
+  headingFontFamily: "helvetica"
   logo: 
   mainSections:
     - blog
