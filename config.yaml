@@ -49,8 +49,9 @@ params:
   headingFontFamily: sans-serif
   logo: 
   mainSections:
+    - blog
     - project
-    - about
+    - talk
   math:
     renderer: katex
   navallcaps: yes
