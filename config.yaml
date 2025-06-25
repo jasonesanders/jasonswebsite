@@ -34,7 +34,7 @@ params:
   custom_theme: ''
   customheadingFontFamily: ""
   customtextFontFamily: ""
-  description: A modern, beautiful, and easily configurable blog theme for Hugo.
+  description: Jason Sanders's personal website and portfolio.
   favicon: 
   giscus:
     category: Comments
@@ -68,7 +68,7 @@ params:
 
   socialInFooter: no
   socialInHeader: no
-  textFontFamily: sans-serif
+  textFontFamily: "sans-serif"
   theme: sky
   twitter: apreshill
   utterances:
