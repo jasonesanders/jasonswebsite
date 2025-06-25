@@ -46,7 +46,7 @@ params:
     repo: apreshill/apero
     repo_id: '[REPO ID]='
     theme: light
-  headingFontFamily: sans-serif
+  headingFontFamily: helvetica
   logo: 
   mainSections:
     - blog
@@ -57,14 +57,14 @@ params:
   navallcaps: yes
   orgLocal: Anywhere
   orgName: RStudio
-  sharing_image: /img/papillons.jpg
+  sharing_image: /img/IMG_3547.jpg
   social:
     - icon: github
       icon_pack: fab
       url: https://github.com/jasonesanders
     - icon: bluesky
       icon_pack: fab
-      url: https://bsky.app/jasonsanders
+      url: https://bsky.app/profile/jasonsanders.bsky.social
 
   socialInFooter: no
   socialInHeader: no
