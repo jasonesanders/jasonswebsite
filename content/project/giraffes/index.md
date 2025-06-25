@@ -1,10 +1,7 @@
 ---
-author: Eric Anderson
-categories:
-- Theme Features
-- R
-- package
-date: "2019-07-03"
+title: "Tachyons for Style"
+author: "Jason Sanders"
+date: "2019-06-22"
 draft: false
 excerpt: Building this static site generator theme was the first time I used an Atomic
   (or Functional) CSS system like Tachyons. It’s a design system that provides very
@@ -12,9 +9,10 @@ excerpt: Building this static site generator theme was the first time I used an 
 layout: single
 subtitle: A tachyon /ˈtæki.ɒn/ or tachyonic particle is a hypothetical particle that
   always moves faster than light.
-tags:
-- hugo-site
-title: Tachyons for Style
+tags: "hugo-site"
+categories:
+- Social Media
+- Event
 ---
 
 ![Tachyons Logo Script](tachyons-logo-script.png)
