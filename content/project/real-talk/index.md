@@ -13,10 +13,9 @@ categories:
 - Event
 ---
 
-![Tachyons Logo Script](tachyons-logo-script.png)
 
-## “Jason was amazing to work with. He managed the social media for our event seamlessly. He worked with us to develop [a strategy] that was impactful and met our dynamic needs.
-— Malina Parmar, Conference Director
+###### “Jason was amazing to work with. He managed the social media for our event seamlessly. He worked with us to develop [a strategy] that was impactful and met our dynamic needs.
+###### — Malina Parmar, Conference Director
 
 
 ---
